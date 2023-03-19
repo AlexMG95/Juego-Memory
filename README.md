@@ -5,3 +5,5 @@
 ## Tecnologías usadas
 
   ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
+
+  ![JS](https://img.shields.io/static/v1?label=&message=js&color=yellow&logo=javascript&logoColor=white&style=for-the-badge)
